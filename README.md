@@ -6,13 +6,13 @@ The Contents of a readme file are written using [Markdown](https://www.markdowng
 
 1. Clicking the `pen` symbol above.
 
-2. Enter your First Name: Marcus
+2. Enter your First Name: marcus
 
-3. Enter your favourite animal: Lion
+4. Enter your favourite animal: lion
 
-4. Click the green `Commit Changes` button.
+5. Click the green `Commit Changes` button.
 
-5. Done!
+6. Done!
 
 # What just happened?
 You made changes and committed (saved) them to the repository.
